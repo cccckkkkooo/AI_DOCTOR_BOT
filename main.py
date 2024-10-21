@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 from g4f.client import Client
 
-TOKEN = '7817694585:AAH-_iVN4J5VVhNpr1_P1WA2l4gW4YzkVg4'
+TOKEN = 'YOUR TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 client = Client()
